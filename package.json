@@ -1,0 +1,23 @@
+{
+  "name": "programimi-avancuar",
+  "version": "1.0.0",
+  "main": "jest.config.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anita-Osmani/Programimi-Avancuar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anita-Osmani/Programimi-Avancuar/issues"
+  },
+  "homepage": "https://github.com/Anita-Osmani/Programimi-Avancuar#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
